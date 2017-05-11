@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "src/ofApp.h"
+            timestampString = "516086818.530829"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "4"
+            endingLineNumber = "4">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ofApp::ofApp()"
+                  moduleName = "FinalParticleDebug"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/of_v0.9.8_osx_release/apps/myApps/FinalParticle/src/ofApp.h"
+                  timestampString = "516062949.920791"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "6"
+                  endingLineNumber = "6"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ofApp::ofApp()"
+                  moduleName = "FinalParticleDebug"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/of_v0.9.8_osx_release/apps/myApps/FinalParticle/src/ofApp.h"
+                  timestampString = "516062949.9328"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "6"
+                  endingLineNumber = "6"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ofApp::~ofApp()"
+                  moduleName = "FinalParticleDebug"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/of_v0.9.8_osx_release/apps/myApps/FinalParticle/src/ofApp.h"
+                  timestampString = "516062949.936083"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "6"
+                  endingLineNumber = "6"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ofApp::~ofApp()"
+                  moduleName = "FinalParticleDebug"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/of_v0.9.8_osx_release/apps/myApps/FinalParticle/src/ofApp.h"
+                  timestampString = "516062949.93889"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "6"
+                  endingLineNumber = "6"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "non-virtual thunk to ofApp::~ofApp()"
+                  moduleName = "FinalParticleDebug"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/of_v0.9.8_osx_release/apps/myApps/FinalParticle/src/ofApp.h"
+                  timestampString = "516062949.947659"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "6"
+                  endingLineNumber = "6"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "non-virtual thunk to ofApp::~ofApp()"
+                  moduleName = "FinalParticleDebug"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/of_v0.9.8_osx_release/apps/myApps/FinalParticle/src/ofApp.h"
+                  timestampString = "516062949.950886"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "6"
+                  endingLineNumber = "6"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ofApp::~ofApp()"
+                  moduleName = "FinalParticleDebug"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/of_v0.9.8_osx_release/apps/myApps/FinalParticle/src/ofApp.h"
+                  timestampString = "516062949.953624"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "6"
+                  endingLineNumber = "6"
+                  offsetFromSymbolStart = "37">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
